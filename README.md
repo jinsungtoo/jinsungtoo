@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Jinsung's%20Github&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Jinsung's%20Github👋&fontSize=50&animation=twinkling)
 
 <h3 align="center">📚 Be learning... 📚</h3>
 <p align="center">
