@@ -2,13 +2,15 @@
 
 ### :clipboard: Github
 <hr>
-
+<p align= "center">
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=jinsungtoo&theme=onedark&show_icons=true" width="42%" />
 </a>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsungtoo&exclude_repo=jinsungtoo.github.io&layout=compact&theme=tokyonight"width="35%" />
 </a>
+</p>
+
 <br>
 <br>
 
