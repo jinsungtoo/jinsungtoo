@@ -1,7 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Jinsung's%20Github👋&fontSize=50&animation=twinkling)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsungtoo&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinsungtoo&layout=compact&theme=tokyonight)
+### :clipboard: Github
+<hr>
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=jinsungtoo&theme=onedark&show_icons=true" width="42%" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinsungtoo&exclude_repo=jinsungtoo.github.io&layout=compact&theme=tokyonight"width="35%" />
+</a>
+<br>
+<br>
+
+### :pushpin: Skill
+<hr>
 
 <h3 align="center">📚 Be learning... 📚</h3>
 <p align="center">
