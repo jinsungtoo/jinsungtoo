@@ -20,8 +20,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jinsungtoo&theme=tokyonight)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jinsungtoo&theme=flat&column=7)](https://github.com/jinsungtoo/)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=jinsungtoo&theme=flat&column=7)](https://github.com/jinsungtoo/)
+ 
 <br>
 <br>
 
